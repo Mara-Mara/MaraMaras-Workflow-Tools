@@ -1,0 +1,1 @@
+Hello! This tool was originally designed to assist me with wiping Project Zomboid map data by knowing which particular files contained map data relating to player-build bases and infrastructure and placing them inside the denylist.
