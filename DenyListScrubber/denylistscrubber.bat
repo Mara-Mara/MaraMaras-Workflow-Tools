@@ -55,5 +55,5 @@ if /i "%runAgain%"=="Y" goto runProgram
 
 echo Process complete. You may now exit.
 
-REM Author: MaraMara
+REM Author: MaraMara!
 pause
