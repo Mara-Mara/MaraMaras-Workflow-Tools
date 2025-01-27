@@ -1,2 +1,2 @@
-# MaruMarus-Workflow-Tools
- A series of tools designed and developed by MaruMaru for personal workflow tasks.
+# MaraMaras-Workflow-Tools
+A series of tools designed and developed by MaraMara for personal workflow tasks.
